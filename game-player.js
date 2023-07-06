@@ -5,5 +5,5 @@ window.onload = function() {
         gameIframe.src = url;
     }
 
-    // Example usage: loadGame('http://lutsgames.com/games/idle-superpowers/');
+    // Example usage: loadGame('https://luts91.github.io/idle-idle-gamedev');
 };
